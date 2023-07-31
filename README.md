@@ -1,6 +1,6 @@
 # Meet Leeroy Mubaiwa, Systems Developer at the Zimbabwe Stock Exchange
 
-[![Zimbabwe Stock Exchange](https://www.zse.co.zw/wp-content/uploads/2019/03/logo.png)
+[!Zimbabwe Stock Exchange](https://www.zse.co.zw/wp-content/uploads/2019/03/logo.png)
 
 Hi there! My name is Leeroy Mubaiwa, and I'm a systems developer at the Zimbabwe Stock Exchange (ZSE). I work on developing and maintaining the systems that power the ZSE's trading platform, ensuring that it runs smoothly and efficiently.
 
